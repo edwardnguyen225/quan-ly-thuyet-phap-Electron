@@ -1,7 +1,7 @@
 {
-  "name": "secure-electron-template",
+  "name": "quan-ly-thuyet-phap",
   "version": "16.1.0",
-  "description": "The best way to build Electron apps with security in mind.",
+  "description": "Dung de sao chep thuyet phap",
   "private": true,
   "main": "app/electron/main.js",
   "scripts": {
@@ -54,7 +54,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reZach/secure-electron-template.git"
+    "url": "git+https://github.com/edwardnguyen225/quan-ly-thuyet-phap-Electron.git"
   },
   "keywords": [
     "electron",
